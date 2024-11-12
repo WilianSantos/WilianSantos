@@ -2,14 +2,14 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack
 
-Sou fascinado pela evolução da tecnologia. Isso me inspirou a entender como muitas das soluções que temos hoje foram criadas, decide trabalhar como desenvolvedor web porque é uma area com muita informação disponível, tenho focado no front-end e no back-end, desenvolvendo soluções escaláveis e otimizadas para a web.
+Sou fascinado pela evolução da tecnologia. Isso me inspirou a entender como muitas das soluções que temos hoje foram criadas, decide iniciar como desenvolvedor web e tenho me empenhado em apreender tudo sobre, buscando sempre as boas praticas.
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
 
 ### 🚀 Front-end
-- **Linguagens**: HTML, CSS, JavaScript
+- **Linguagens**: HTML, CSS, JavaScript, JQuery
 <!-- - **Frameworks**: React, Angular, Vue.js
 - **Bibliotecas**: Redux, Tailwind CSS, Bootstrap -->
 
