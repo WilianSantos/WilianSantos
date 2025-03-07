@@ -5,7 +5,7 @@
 Sou fascinado pela evolução da tecnologia. Isso me inspirou a entender como muitas das soluções que temos hoje foram criadas, decide iniciar como desenvolvedor web e tenho me empenhado em apreender tudo sobre, buscando sempre as boas praticas.
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?sername=WilianSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=WilianSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 />
 <img
   height="180em"
