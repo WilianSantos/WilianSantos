@@ -8,8 +8,9 @@ Sou fascinado pela evolução da tecnologia. Isso me inspirou a entender como mu
 ## 🔧 Tecnologias e Ferramentas
 
 ### 🚀 Front-end
-- **Linguagens**: HTML, CSS, JavaScript, JQuery
-<!-- - **Frameworks**: React, Angular, Vue.js
+- **Linguagens**: TypeScript, HTML, CSS, JavaScript, JQuery, SCSS, LESS
+- **Frameworks**: React, Vue.js, Bootstrap
+<!-- 
 - **Bibliotecas**: Redux, Tailwind CSS, Bootstrap -->
 
 ### 🛠 Back-end
