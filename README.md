@@ -47,7 +47,7 @@ Aqui estão alguns projetos em que tenho trabalhado:
 
 Fique à vontade para se conectar comigo ou enviar uma mensagem! 
 
-- **LinkedIn**: <a href="https://www.linkedin.com/in/wilian-soares-dos-santos-115328124/" style=" padding: 5px; font-size: 16px; color: white; background-color: #391ce2;border-radius: 5px; text-align: center; text-decoration: none; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#381be4'" onmouseout="this.style.backgroundColor='#1d0af8'">
+- **LinkedIn**: <a href="https://www.linkedin.com/in/wilian-soares-dos-santos-115328124/" style="padding: 5px; font-size: 16px; color: white; background-color: #391ce2; border-radius: 5px; text-align: center; text-decoration: none;">
 Clique Aqui
 </a>
 <!-- - **Portfólio**: [Seu Portfólio](link) -->
