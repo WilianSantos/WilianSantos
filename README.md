@@ -34,15 +34,14 @@ Não tenho experiência profissional em Tecnologia da Informação, mas tenho pr
 ## 📚 Projetos
 
 Aqui estão alguns projetos em que tenho trabalhado:
-- **[Sistema de Gerenciamento do Louvor (API)]([link](https://github.com/WilianSantos/api-gerenc-louvor.git))**:
-- Neste projeto desenvolvi um sistema para atividades relacionadas ao
+- **[Sistema de Gerenciamento do Louvor (API)](https://github.com/WilianSantos/api-gerenc-louvor.git)**: Neste projeto desenvolvi um sistema para atividades relacionadas ao
             Ministério de Louvor da igreja, utilizei o python para o back-end e
             usei o Django junto com o Django REST framework, com autenticação
             JWT, onde é criado cookies e através deles é verificado se a
             requisição é valida, decide optar por essa abordagem poder armazenar
             os token de acesso de forma mais segura, e uma melhora na segurança
             seria criptografar esse cookies para melhor segurança.
-- **[Sistema de Gerenciamento do Louvor (SITE)]([link](https://github.com/WilianSantos/nextjs_worship-site.git))**: Este projeto se trata de um site para a api do ministério de louvor,
+- **[Sistema de Gerenciamento do Louvor (SITE)](https://github.com/WilianSantos/nextjs_worship-site.git)**: Este projeto se trata de um site para a api do ministério de louvor,
             utilizei Next.js, pois é uma das tecnologias que estão mais em alta
             para o front-end, mas claro que o motivo maior foi pela facilidade
             de manipular os elementos de uma pagina de forma mais intuitiva e
@@ -55,8 +54,8 @@ Aqui estão alguns projetos em que tenho trabalhado:
 
 Fique à vontade para se conectar comigo ou enviar uma mensagem! 
 
-- **LinkedIn**: [Clique Aqui]([link](https://www.linkedin.com/in/wilian-soares-dos-santos-115328124/))
-- **Portfólio**: [Acesse meu Portfólio]([link](https://wilian-portifolio.vercel.app/))
+- **LinkedIn**: [Clique Aqui](https://www.linkedin.com/in/wilian-soares-dos-santos-115328124/)
+- **Portfólio**: [Acesse meu Portfólio](https://wilian-portifolio.vercel.app/)
 - **Email**: wilian.santos.dev@outlook.com
 
 ---
