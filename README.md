@@ -2,7 +2,8 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack
 
-Sou fascinado pela evolução da tecnologia. Isso me inspirou a entender como muitas das soluções que temos hoje foram criadas, decide iniciar como desenvolvedor web e tenho me empenhado em apreender tudo sobre, buscando sempre as boas praticas e as melhores tecnologias.
+Especializado em aplicações front-end e back-end para web.
+Sou programador Full Stack e estou cursando Desenvolvedor Full Stack Python, um curso profissionalizante e estou no 3° semestre de Analise e Desenvolvimento de Sistemas. Sou cristão, baterista e um pouco geek, meus hobbies se dividem em ouvir musicas, ler mangas, assistir animes e ler livros. Me dedico sempre para o bom funcionamento de tudo aplicando boas praticas e fazendo tudo de forma organizada.
 ---
 
 ## 🔧 Tecnologias e Ferramentas
@@ -27,7 +28,7 @@ Sou fascinado pela evolução da tecnologia. Isso me inspirou a entender como mu
 Não tenho experiência profissional em Tecnologia da Informação, mas tenho projetos desenvolvidos que podem apresentar um pouco do que sei. Mas tenho experiência em outras empresas que moldou um pouco do profissional que sou hoje, meu comprometimento, dedicação e seriedade são pontos a ser destacado.
 - Desenvolvimento de APIs RESTful e GraphQL
 - Integração de sistemas de autenticação, pagamento e outros serviços
-- Testes unitários e integração contínua para garantir a qualidade do código -->
+- Testes unitários e integração contínua para garantir a qualidade do código
 
 --- -->
 
