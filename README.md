@@ -2,22 +2,20 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack
 
-Especializado em aplicações front-end e back-end para web.
-Sou programador Full Stack e estou cursando Desenvolvedor Full Stack Python, um curso profissionalizante e estou no 3° semestre de Analise e Desenvolvimento de Sistemas. Sou cristão, baterista e um pouco geek, meus hobbies se dividem em ouvir musicas, ler mangas, assistir animes e ler livros. Me dedico sempre para o bom funcionamento de tudo aplicando boas praticas e fazendo tudo de forma organizada.
+Sou especializado em aplicações front-end e back-end web. Tenho conhecimento em construir páginas web com HTML, CSS e JavaScript, tenho conhecimento em pré-processadores como SCSS e automatizadores de tarefas como GRUNT, também desenvolvo páginas com frameworks como React.js e Next.js, tenho familiaridade com styled-components, redux e react query. Com o back-end construo APIs com Python e Django, utilizando Django Rest. Atualmente sou estudante de programação, não tenho experiência profissional em programação, dedico o meu tempo aos estudos e a pratica com projetos acadêmicos. Minhas formações são Desenvolvedor Full Stack Python, um curso profissionalizante também estou no 5° semestre de Análise e Desenvolvimento de Sistemas, no design de código meu foco é o simples e funcional, sempre aplicando as boas práticas da comunidade.
 ---
 
 ## 🔧 Tecnologias e Ferramentas
 
 ### 🚀 Front-end
 - **Linguagens**: TypeScript, HTML, CSS, JavaScript, JQuery, SCSS, LESS
-- **Frameworks**: React, Vue.js, Bootstrap, Next.js, TailwindCSS
-<!-- 
-- **Bibliotecas**: Redux, Tailwind CSS, Bootstrap -->
+- **Frameworks**: React, Vue.js, Next.js
+- **Bibliotecas**: Redux, Tailwind CSS, Bootstrap
 
 ### 🛠 Back-end
 - **Linguagens**: Python
 - **Frameworks**:  Django, Django REST Framework
-<!-- - **Banco de Dados**: MySQL, PostgreSQL, MongoDB -->
+- **Banco de Dados**: MySQL, PostgreSQL
 
 ### ☁️ Infraestrutura e DevOps
 - Docker, Git
@@ -36,18 +34,8 @@ Não tenho experiência profissional em Tecnologia da Informação, mas tenho pr
 
 Aqui estão alguns projetos em que tenho trabalhado:
 - **[Sistema de Gerenciamento do Louvor (API)](https://github.com/WilianSantos/api-gerenc-louvor.git)**: Neste projeto desenvolvi um sistema para atividades relacionadas ao
-            Ministério de Louvor da igreja, utilizei o python para o back-end e
-            usei o Django junto com o Django REST framework, com autenticação
-            JWT, onde é criado cookies e através deles é verificado se a
-            requisição é valida, decide optar por essa abordagem poder armazenar
-            os token de acesso de forma mais segura, e uma melhora na segurança
-            seria criptografar esse cookies para melhor segurança.
-- **[Sistema de Gerenciamento do Louvor (SITE)](https://github.com/WilianSantos/nextjs_worship-site.git)**: Este projeto se trata de um site para a api do ministério de louvor,
-            utilizei Next.js, pois é uma das tecnologias que estão mais em alta
-            para o front-end, mas claro que o motivo maior foi pela facilidade
-            de manipular os elementos de uma pagina de forma mais intuitiva e
-            pratica, e também por proporcionar uma experiencia melhora para o
-            usuário.
+            Ministério de Louvor da igreja.
+- **[Sistema de Gerenciamento do Louvor (SITE)](https://github.com/WilianSantos/nextjs_worship-site.git)**: Este projeto se trata de um site para a api do ministério de louvor.
 
 ---
 
