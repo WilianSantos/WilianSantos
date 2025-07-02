@@ -40,8 +40,7 @@ Não tenho experiência profissional em Tecnologia da Informação, mas tenho pr
 ## 📚 Projetos
 
 Aqui estão alguns projetos em que tenho trabalhado:
-- **[Sistema de Gerenciamento do Louvor (API)](https://github.com/WilianSantos/api-gerenc-louvor.git)**: Neste projeto desenvolvi um sistema para atividades relacionadas ao
-            Ministério de Louvor da igreja.
+- **[Sistema de Gerenciamento do Louvor (API)](https://github.com/WilianSantos/api-gerenc-louvor.git)**: Este é uma api para sistema de atividades relacionadas ao Ministério de Louvor da igreja da qual frequento.
 - **[Sistema de Gerenciamento do Louvor (SITE)](https://github.com/WilianSantos/nextjs_worship-site.git)**: Este projeto se trata de um site para a api do ministério de louvor.
 
 ---
